@@ -12,11 +12,11 @@ let availableQuestions= [];
 
 let questions = [
     {
-        question: 'Which of the following is the correct way of declaring an array?',
-        choice1: 'int javatpoint[10];',
-        choice2: 'int javatpoint;',
-        choice3: 'javatpoint{20};',
-        choice4: 'array javatpoint[10];',
+        question: 'What is the accounting equation?',
+        choice1: 'Assets = Liabilities + Equity',
+        choice2: 'Liabilities = Assets + Equity',
+        choice3: 'Equity = Assets + Liabilities',
+        choice4: 'Revenues = Expenses + Net Income',
         answer: 1,
     },
 
