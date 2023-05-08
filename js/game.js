@@ -43,38 +43,6 @@ let questions = [
         choice3: 'A system that records each transaction in three accounts',
         choice4: 'A system that records each transaction in four accounts',
         answer: 2,
-    }, 
-    {
-        question: "What is the difference between a debit and a credit in accounting?",
-        choice1: 'A debit increases an asset account, and a credit decreases an asset account',
-        choice2: 'A debit increases a liability account, and a credit decreases a liability account',
-        choice3: 'A debit increases an expense account, and a credit decreases an expense account',
-        choice4: 'A debit increases an account, and a credit decreases an opposite account'
-        answer: 4,
-    },
-    {
-        question: "What is the purpose of a trial balance in accounting?",
-        choice1: 'To verify that the total debits equal the total credits',
-        choice2: 'To verify that the total assets equal the total liabilities',
-        choice3: 'To verify that the total expenses equal the total revenues',
-        choice4: 'To verify that the total income equals the net income',
-        answer: 1,
-    },
-    {
-        question: "Which financial statement shows the revenue, expenses, and net income of a company for a specific period of time?",
-        choice1: 'Balance sheet',
-        choice2: 'Income statement',
-        choice3: 'Statement of cash flows',
-        choice4: 'Statement of changes in equity',
-        answer: 2,
-    },
-    {
-        question: "What is the purpose of adjusting entries in accounting?",
-        choice1: 'To update the ledger accounts for unrecorded transactions',
-        choice2: 'To update the financial statements for recorded transactions',
-        choice3: 'To record transactions that occurred in a previous period',
-        choice4: 'To close the temporary accounts at the end of the accounting period',
-        answer: 2,
     },
 ]
 
